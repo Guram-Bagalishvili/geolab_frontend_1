@@ -125,9 +125,10 @@ nav {
 	vertical-align: top;
 	font-family: BPG Ingiri Arial;
 	font-size: 16px;
+	font-weight: normal;
 	line-height: 20px;
 	letter-spacing: 0.1;
-
+	text-indent: 25px;
 }
 
 .art-bott {
